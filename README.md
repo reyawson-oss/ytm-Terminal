@@ -1,2 +1,2 @@
 # ytm-Terminal
-Terminal based Youtube Music app using the  YouTube Data API v3 
+Terminal based Youtube Music app using the  YouTube Data API v3 written in GO
